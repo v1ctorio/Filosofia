@@ -1,0 +1,1 @@
+La ética es uno de los temas clásicos de la filosofía que afecta al comportamiento humano o su conducta. Su intención es
