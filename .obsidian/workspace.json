@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reduccionismo ético.md",
+                "file": "Ética de Nietzsche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reduccionismo ético"
+              "title": "Ética de Nietzsche"
             }
           },
           {
@@ -79,16 +79,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Eudemonismo - Aristóteles.md",
+                "file": "Utilitarismo - JSMill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Eudemonismo - Aristóteles"
+              "title": "Utilitarismo - JSMill"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Eudemonismo - Aristóteles.md",
+                "file": "Ética de Nietzsche.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Eudemonismo - Aristóteles"
+              "title": "Outline of Ética de Nietzsche"
             }
           },
           {
@@ -246,24 +246,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3486baa87fdda9f0",
+  "active": "c6c0badc995ca980",
   "lastOpenFiles": [
+    "Ética de Nietzsche.md",
+    "Emotivismo - Hume.md",
+    "Formalismo - Kant.md",
+    "Utilitarismo - JSMill.md",
+    "diferencia entre ética y moral.md",
+    "Estoicismo - Séneca.md",
+    "Ética.md",
+    "Ética dimensional.md",
+    "Éticas racionales.md",
+    "Éticas religiosas.md",
     "Eudemonismo - Aristóteles.md",
+    "Extensión ética.md",
+    "Fundamento ético.md",
+    "Hedonismo - Epicuro.md",
+    "Reduccionismo ético.md",
     "Ética de Rousseau.md",
     "Éticas voluntaristas.md",
     "Éticas emocionales.md",
-    "Éticas racionales.md",
-    "Éticas religiosas.md",
     "Éticas filosóficas.md",
-    "Fundamento ético.md",
     "Lo bueno.md",
-    "Reduccionismo ético.md",
     "Relativismo moral.md",
     "Universalismo moral.md",
-    "Extensión ética.md",
-    "Ética dimensional.md",
-    "Ética.md",
-    "diferencia entre ética y moral.md",
     "Welcome.md"
   ]
 }
