@@ -1,0 +1,1 @@
+Ética #grecolatinaymedieval que afirma que la **felicidad** es el bien más alto alcanzable por el hombre, el fin del ser humano

@@ -1,2 +1,0 @@
-#vocabulario
-sa
