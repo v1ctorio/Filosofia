@@ -1,0 +1,1 @@
+Retomado por R. Descartes, afirma que el cuerpo está compuesto por mente (sustancia pensante) y cuerpo (sustancia extensa). Concibe el cuerpo como una maquina sometida a leyes fisicay el alma como una sustancia espiritual e inmortal con entendimiento y voluntad libre.

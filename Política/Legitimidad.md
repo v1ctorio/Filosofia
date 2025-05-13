@@ -1,0 +1,1 @@
+Justificación de la existencia de ciertas medidas ([[Leyes]]) más allá del miedo al castigo.
