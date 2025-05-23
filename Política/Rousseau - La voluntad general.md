@@ -6,4 +6,4 @@ El hombre vivía feliz pero se vio obligado a relacionarse en sociedad, esta lo 
 
 Rousseau propone una reforma social en la que a través de un ![[Contrato social - Rousseau]]
 
-Se considera a Rousseau uno de los primeros defensores de la democracia.
+Se considera a [[J-J Rousseau]] uno de los primeros defensores de la democracia.
