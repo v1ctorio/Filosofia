@@ -1,3 +1,7 @@
+---
+noteId: 1748465185167
+---
+
 Filosofía política de [[J-J Rousseau]] (1712-1778) que afirma que el ser humano tiene una bondad natural y es corrupto por la sociedad.
 
 El hombre natural se rige por el deseo de auto conservación y el de piedad que le obliga a ser empático.

@@ -1,3 +1,7 @@
+---
+noteId: 1748465184542
+---
+
 Del griego *hedoné* que significa "placer". Postura grecolatina y medieval que considera que la felicidad reside en en el placer. Este no es un placer mundano (máximo placer corporal sin importar las consecuencias del mismo) si no uno filosófico.
 El placer para Epicuro consiste en la ausencia de dolor corporal y la tranquilidad del espíritu.
 

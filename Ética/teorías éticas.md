@@ -1,3 +1,7 @@
+---
+noteId: 1748465184618
+---
+
 # Filosofía grecolatina y medieval 
 - [[Eudemonismo - Aristóteles]]
 - [[Hedonismo - Epicuro]]

@@ -1,3 +1,7 @@
+---
+noteId: 1748465185292
+---
+
 El saber [[Filosofía|filosófico]] se caracteriza por ser: 
 - **Racional** - Se justifican afirmaciones usando argumentos de carácter racional.
 - **Universal** - Intenta tener en cuenta todos los aspectos de la realidad.

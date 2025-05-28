@@ -1,3 +1,7 @@
+---
+noteId: 1748465185392
+---
+
 También conocida como filosofía de la naturaleza. Corresponde al periodo histórico de [[Grecia]] y Roma. Desde el S. V a.C hasta el S. V d.C. Se subdivide en:
 # Filosofía de la naturaleza
 S. VI a.C Nacimiento de la filosofía en el puerto de mileto donde conviven muchas culturas por el comercio. Empieza el [[paso del mito al logos]]. Se empieza a buscar un principio explicativo (arjé) a través de la razón (logos).
@@ -21,7 +25,7 @@ Discípulo de [[Sócrates]] y fundador de la academia. Desarrolla el primer gran
 
 ## [[Aristóteles]]
 Discípulo de [[Platón]] y maestro de Alejandro Magno, funda el Liceo.
-El aristotelismo afirma que solo existe la realidad material y que no es posible que existea la esencia de las cosas separada de las mismas físicamente. [[Sustancialismo]]
+El aristotelismo afirma que solo existe la realidad material y que no es posible que exista la esencia de las cosas separada de las mismas físicamente. [[Sustancialismo]]
 
 # Escuelas helenísticas
 S. III a.C Corresponden al periodo helenístico posterior a la muerte de Alejandro Magno. Las dos principales escuelas son:

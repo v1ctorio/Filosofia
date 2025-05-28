@@ -1,0 +1,1 @@
+Antropología durante la [[Filosofía Medieval]]- Afirma que el hombre ha sido creado a imagen y semejanza de Dios (Imago DEi) y por tanto todos los hombres son iguales en esencia y poseen una naturaleza buena. La naturaleza humana está herripta por el pecado. 
