@@ -1,8 +1,12 @@
 ---
-noteId: 1748465185317
+noteId: 1748468966442
+tags:
+  - flashcards
 ---
-
+Empirismo
+?
 S. XVII - S. SXVIII. Corriente filosófica contraria al [[Racionalismo]] que considera la experiencia como única fuente del conocimiento.
+<!--SR:!2025-05-30,1,230-->
 
 - Rechazan las ideas innatas.
 - Afirman que el conocimiento humano está limitado por la experiencia.

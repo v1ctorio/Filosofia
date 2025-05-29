@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184343
+noteId: 1748468965217
 ---
 
 Pensamientos éticos que fundamentan las normas morales en la propia naturaleza o condición humana.

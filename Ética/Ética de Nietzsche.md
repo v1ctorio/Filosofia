@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184242
+noteId: 1748468965092
 ---
 
 Hay que crear nuevos calores que potencien la voluntad de poder.

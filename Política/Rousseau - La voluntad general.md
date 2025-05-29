@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185167
+noteId: 1748468966343
 ---
 
 Filosofía política de [[J-J Rousseau]] (1712-1778) que afirma que el ser humano tiene una bondad natural y es corrupto por la sociedad.

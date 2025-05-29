@@ -1,0 +1,1 @@
+Fundado por Plotino, introduce la dimensión religiosa cristiana al platonismo[[Platón]]

@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185018
+noteId: 1748468966191
 ---
 
 Se puede legitimar el poder político según su [origen] o su [finalidad].

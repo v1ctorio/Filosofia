@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185342
+noteId: 1748468966467
 ---
 
 Forma de estudiar la filosofía que la divide en múltiples etapas y tiene en cuenta el contexto histórico e los autores al plantear sus respuestas a los problemas filosóficos.

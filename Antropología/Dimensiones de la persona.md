@@ -1,5 +1,5 @@
 ---
-noteId: 1748465183742
+noteId: 1748468964691
 ---
 
 # Biológica
@@ -21,3 +21,6 @@ Dimensión supra-natural creada por el hombre. La cultura. Consecuencia de la so
 Dimensión exclusiva y diferenciadora del ser humano que lo lleva a decidir como vivir su vida. Ya sea como individuo ([[Ética]]) o en sociedad ([[Filosofía política]]).
 
 La ética se se construye a partir de la conducta moral. Esta es libre y se asienta en normas, principios y valores que se asumen en la conciencia.
+
+#flashcards 
+¿Cuales son las dimensiones de la persona? La biológica, psicoafectiva, sociocultural y éticoespiritual.

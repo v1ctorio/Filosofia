@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185292
+noteId: 1748468966418
 ---
 
 El saber [[Filosofía|filosófico]] se caracteriza por ser: 

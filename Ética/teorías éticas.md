@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184618
+noteId: 1748468965492
 ---
 
 # Filosofía grecolatina y medieval 

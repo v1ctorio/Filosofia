@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184193
+noteId: 1748468965041
 ---
 
 Precedente del [[Utilitarismo - JSMill]]

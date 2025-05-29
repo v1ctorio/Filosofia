@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184843
+noteId: 1748468966042
 ---
 
 Toda organización social necesita un conjunto de obligaciones y deberes. La organización social da lugar a una organización política en la que un [[Gobierno]] ejerce autoridad en un [[Estado]] basándose en ![[Instituciones]] y ![[Leyes]]

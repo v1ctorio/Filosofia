@@ -8,399 +8,133 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4fe87ee1e306abc",
+            "id": "6953b7a7a6d22217",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meta/Preguntas ia.md",
+                "file": "Metafísica/_TOC_.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Preguntas ia"
+              "title": "_TOC_"
             }
           },
           {
-            "id": "206cfd0773459a57",
+            "id": "8ddc89ae5f169238",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saber filosófico/Filosofía Contemporánea.md",
+                "file": "Saber filosófico/problemas fundamentales de la filosofía.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Filosofía Contemporánea"
+              "title": "problemas fundamentales de la filosofía"
             }
           },
           {
-            "id": "b01d18f3d54d94d1",
+            "id": "79995ea52046204f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saber filosófico/Filosofía y ciencia.md",
+                "file": "Ética/Hedonismo - Epicuro.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Filosofía y ciencia"
+              "title": "Hedonismo - Epicuro"
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "12341b57ea05dc5a",
+        "type": "tabs",
+        "children": [
           {
-            "id": "1f63cf80cb04ddaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antropología/Dimensiones de la persona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dimensiones de la persona"
-            }
-          },
-          {
-            "id": "af355b8dfcc3a95f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antropología/Características de la persona.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Características de la persona"
-            }
-          },
-          {
-            "id": "61cc553d1ea564e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antropología/Antropología medieval.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antropología medieval"
-            }
-          },
-          {
-            "id": "0219707b8cb8884f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antropología/Antropología moderna.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antropología moderna"
-            }
-          },
-          {
-            "id": "5d98f41b633dad0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Antropología/Antropología contemporanea.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Antropología contemporanea"
-            }
-          },
-          {
-            "id": "75b499fc1de36ef6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Metafísica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Metafísica"
-            }
-          },
-          {
-            "id": "5a6bb0218e5106b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Primeros principios de la metafíssica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primeros principios de la metafíssica"
-            }
-          },
-          {
-            "id": "34b2b3a963fd98e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Materia y forma.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Materia y forma"
-            }
-          },
-          {
-            "id": "4b26616ff9ce8348",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Acto y potencia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Acto y potencia"
-            }
-          },
-          {
-            "id": "2567ceb534bbba61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saber filosófico/Actitud filosófica.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Actitud filosófica"
-            }
-          },
-          {
-            "id": "354a3696ce61376f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Saber filosófico/Características del saber filosófico.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Características del saber filosófico"
-            }
-          },
-          {
-            "id": "50972bbf33df05cc",
+            "id": "d61b599f6e369300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Saber filosófico/Filosofía Moderna.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "Filosofía Moderna"
             }
           },
           {
-            "id": "8b721eb545f50beb",
+            "id": "2a5bd1c874f06db4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Saber filosófico/Racionalismo.md",
+                "file": "Saber filosófico/Empirismo.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Racionalismo"
-            }
-          },
-          {
-            "id": "2866aa17093ec4dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Autores/San Anselmo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "San Anselmo"
-            }
-          },
-          {
-            "id": "a59a001c25f1e5d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Causas internas y externas - aristóteles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Causas internas y externas - aristóteles"
-            }
-          },
-          {
-            "id": "077f97f6697d6f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Primer motor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Primer motor"
-            }
-          },
-          {
-            "id": "3159296b41eb598b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Trascendentales del ser.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trascendentales del ser"
-            }
-          },
-          {
-            "id": "748d6cb8f22502bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Ateismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ateismo"
-            }
-          },
-          {
-            "id": "0468c33ea0c7237d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Agnosticismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Agnosticismo"
-            }
-          },
-          {
-            "id": "1711e19433468588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Deísmo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Deísmo"
-            }
-          },
-          {
-            "id": "7d66eded11f60238",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Teísmo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Teísmo"
-            }
-          },
-          {
-            "id": "d6257b56b4483907",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Panteismo.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Panteismo"
-            }
-          },
-          {
-            "id": "55d581ad61decc7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Argumento a priori.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Argumento a priori"
-            }
-          },
-          {
-            "id": "6953b7a7a6d22217",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Argumentos a posteriori.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Argumentos a posteriori"
-            }
-          },
-          {
-            "id": "09e7c6e7cef5f932",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Metafísica/Apuesta a favor de Dios.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Apuesta a favor de Dios"
+              "title": "Empirismo"
             }
           }
-        ],
-        "currentTab": 27
+        ]
       }
     ],
     "direction": "vertical"
@@ -432,7 +166,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#flashcards",
+                "query": "interna",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -541,13 +275,13 @@
             }
           },
           {
-            "id": "9ac4d1045b3126bf",
+            "id": "24b837965c84dcb5",
             "type": "leaf",
             "state": {
-              "type": "copilot-chat-view",
+              "type": "review-queue-list-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
         ],
@@ -555,7 +289,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 431.5
+    "width": 431.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -570,44 +305,44 @@
       "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "eb675bab3dd34a4e",
+  "active": "8ddc89ae5f169238",
   "lastOpenFiles": [
-    "Metafísica/Apuesta a favor de Dios.md",
-    "Metafísica/Posturas.md",
-    "Metafísica/Argumentos a posteriori.md",
-    "Metafísica/Argumento a priori.md",
-    "Metafísica/Panteismo.md",
-    "Metafísica/Teísmo.md",
-    "Metafísica/Deísmo.md",
-    "Metafísica/Agnosticismo.md",
-    "Metafísica/Ateismo.md",
-    "Metafísica/Trascendentales del ser.md",
-    "Metafísica/Primer motor.md",
+    "Saber filosófico/Estudio sincrónico de la filosofía.md",
+    "Saber filosófico/Estudio diacrónico de la filosofía.md",
     "Metafísica/Causas internas y externas - aristóteles.md",
-    "Autores/San Anselmo.md",
-    "Metafísica/Acto y potencia.md",
-    "Metafísica/Materia y forma.md",
-    "Metafísica/Esencia y existencia.md",
-    "Metafísica/Primeros principios de la metafíssica.md",
-    "Metafísica/Metafísica.md",
-    "Antropología/Antropología contemporanea.md",
-    "Metafísica",
-    "Antropología/Antropología moderna.md",
-    "Política/Absolutismo Político - Seguridad como fin del estado.md",
-    "Antropología/Antropología medieval.md",
+    "Metafísica/Trascendentales del ser.md",
+    "Metafísica/_TOC_.md",
     "Antropología/Características de la persona.md",
-    "Antropología/La persona.md",
-    "Antropología/Dimensiones de la persona.md",
-    "Antropología/Antropología filosófica.md",
+    "Política/Pacto social.md",
+    "Política/Gobierno.md",
+    "Política/Legitimidad.md",
+    "Política/Leyes.md",
+    "Política/Instituciones.md",
+    "Política/Legitimación del poder político.md",
+    "Saber filosófico/Teoría de las ideas - Realismo extremo.md",
+    "Saber filosófico/Racionalismo.md",
+    "Saber filosófico/problemas fundamentales de la filosofía.md",
+    "Saber filosófico/Platón.md",
+    "Saber filosófico/Neoplatonismo.md",
+    "Saber filosófico/Filosofía y Teología.md",
+    "Saber filosófico/Filosofía y ciencia.md",
+    "Saber filosófico/Filosofía Moderna.md",
+    "Saber filosófico/Empirismo.md",
+    "Saber filosófico/Filosofía Antigua.md",
+    "Saber filosófico/Filosofía Medieval.md",
+    "Saber filosófico/Filosofía Contemporánea.md",
+    "Ética/Hedonismo - Epicuro.md",
+    "Antropología/Antropología medieval.md",
+    "Flashcards",
+    "Untitled.canvas",
+    "Metafísica",
     "Untitled 1",
     "Saber filosófico/ED",
     "Saber filosófico",
     "Antropología",
     "Autores",
     "Meta",
-    "Untitled.canvas",
     "Política",
-    "Antropología",
-    "Ética"
+    "Antropología"
   ]
 }

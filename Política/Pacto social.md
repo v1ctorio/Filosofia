@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185143
+noteId: 1748468966317
 ---
 
 Doctrinas que consideran que el poder político surge de un pacto entre individuos (contrato social).
@@ -9,3 +9,8 @@ Estas doctrinas contractualistas consideran que el ser humano se encuentra natur
 ![[Absolutismo Político - Seguridad como fin del estado]]
 ![[Locke - El estado liberal]]
 ![[Rousseau - La voluntad general]]
+
+¿Cuales son las doctrinas contractualistas?
+?
+Absolutismo político de hobbes; liberalismo de Locke; Rousseau voluntad general[]()
+<!--SR:!2025-06-01,3,250-->

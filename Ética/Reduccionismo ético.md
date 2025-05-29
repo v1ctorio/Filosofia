@@ -1,7 +1,10 @@
 ---
-noteId: 1748465184568
+noteId: 1748468965442
+tags:
+  - flashcards
 ---
-
+# Reduccionismo ético
+?
 Fenómeno en el que al estudiar la ética no se tienen en cuenta todas las dimensiones y características que conforman al ser humano.
 
 Pretenden reducir la ética a costumbres sociales o culturales, motivaciones y principios psicológicos o instintos y necesidades biológicas

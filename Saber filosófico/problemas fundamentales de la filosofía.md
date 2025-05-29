@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185567
+noteId: 1748468966692
 ---
 
 Temas que surgieron en [[Grecia]] pero han permanecido a lo largo de la historia y constituyen la vase para la filosofía en el futuro. Son:
@@ -10,3 +10,7 @@ Temas que surgieron en [[Grecia]] pero han permanecido a lo largo de la historia
 - **Ética** - Práctica - Trata de reflexionar sobre el estilo de vida del ser humano. Su problema fundamental es el bien. 
 - **[[Filosofía política| Política]]** - Práctica - Plantea la forma en la que el humano debe vivir son sus semejantes en sociedad.
 - **Estética** - Estudia la sensibilidad humana.
+
+#flashcards 
+¿Cuales son los problemas fundamentales de la filosofía?:: Metafísica, Epistemología, Lógica, Antropología, Ética, Política y Estética.
+<!--SR:!2025-06-01,3,250-->

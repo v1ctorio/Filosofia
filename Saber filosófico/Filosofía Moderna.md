@@ -1,8 +1,8 @@
 ---
-noteId: 1748465185467
+noteId: 1748468966593
 ---
 
-[[Filosofía]] del periodo histórico de la modernidad (S. XV - S. XVIII). Se subdivide en las siguientes tendencias_
+[[Filosofía]] del periodo histórico de la modernidad (S. XV - S. XVIII). Se subdivide en las siguientes tendencias:
 # Renacimiento
 S. XV - S. XVI. Se desarrolla el [[Humanismo Renacentista]] que busca reincorporar la cultura clásica con los valores modernos. [[Erasmo de Rotterdam]] y [[Luis Vives]].
 También se introducen nuevos planteamientos para la [[Filosofía política]]. [[Tomás Moro]] propone el Utopismo político y [[N. Maquiavelo]] el Realismo Político
@@ -17,3 +17,6 @@ S. XVIII. Crítica a las capacidades del conocimiento huamno. Busca un equilibri
 Su mayor representante es [[Immanuel Kant]]
 # Ilustración
 S. XVIII. Movimiento cultural que inclute todas las tencencias. Destaca [[J-J Rousseau]] con el [[Contrato social - Rousseau]].
+
+#flashcards 
+Tendencias de la filosofía moderna: Renacimiento (Humanismo renacentista, Maquiavel y tomás moro)

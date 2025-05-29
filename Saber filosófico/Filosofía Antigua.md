@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185392
+noteId: 1748468966518
 ---
 
 También conocida como filosofía de la naturaleza. Corresponde al periodo histórico de [[Grecia]] y Roma. Desde el S. V a.C hasta el S. V d.C. Se subdivide en:
@@ -20,7 +20,7 @@ Como réplica a los [[sofistas]], [[Sócrates]] mantiene el [[Universalismo mora
 # Grandes sistemas filosóficos
 S. IV a.C La filosofía greiga alcanza su máximo esplendor con dos grandes autores:
 ## [[Platón]]
-Discípulo de [[Sócrates]] y fundador de la academia. Desarrolla el primer gran sistema filosófico. El cosnideraba que solo la filosofía podría establecer bases para la armonía política.
+Discípulo de [[Sócrates]] y fundador de la academia. Desarrolla el primer gran sistema filosófico. El consideraba que solo la filosofía podría establecer bases para la armonía política.
 ![[Teoría de las ideas - Realismo extremo]]
 
 ## [[Aristóteles]]
@@ -33,3 +33,17 @@ S. III a.C Corresponden al periodo helenístico posterior a la muerte de Alejand
 - [[Hedonismo - Epicuro|Epicureísmo]]
 - [[Estoicismo - Séneca]]
 - [[Neoplatonismo]]
+
+
+#flashcards 
+¿Cuales son las divisiones de la filosofía antigua?::Filosofía de la naturaleza, del hombre, grandes sistemas y escuelas helenísticas
+<!--SR:!2025-05-30,1,228-->
+
+¿Qué es el Arjé?:: El principio explicativo de la realidad del que están formadas todas las cosas que se empezó a buscar en la filosofía de la naturaleza. Monistas y Pluralistas
+<!--SR:!2025-05-30,1,228-->
+
+¿Cuales fueron los grandes sistemas de la filosofía antigua?::El realismo extremo de platón y el sustancialismo de Aristóteles
+<!--SR:!2025-05-30,1,228-->
+
+¿Qué es el sustancialismo?::Corriente de aristóteles, discípulo de Platón. Afirma que solo existe la realidad material y que no es posible que exista la esencia de las csas separada de las mismas físicamente
+<!--SR:!2025-05-30,1,230-->

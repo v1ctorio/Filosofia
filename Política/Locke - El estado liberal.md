@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185092
+noteId: 1748468966267
 ---
 
 [[J. Locke]] (1632-1704) al contrario que [[Absolutismo Político - Seguridad como fin del estado]], no pensaba que el estado natural del hombre era malo.

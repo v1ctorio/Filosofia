@@ -1,5 +1,5 @@
 ---
-noteId: 1748465185117
+noteId: 1748468966291
 ---
 
 Forma de legitimar el estado frecuente de la edad media que afirma que todo poder, incluido el político proviene de Dios.

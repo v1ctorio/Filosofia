@@ -1,5 +1,5 @@
 ---
-noteId: 1748465184968
+noteId: 1748468966017
 ---
 
 En su obra *Leviatán*, [[T. Hobbes]] (1588-1679) imagina que el ser humano antes de vivir en sociedades políticas, en la naturaleza actuaba meramente por el deseo de: conservar su vida y satisfacer sus apetitos naturales.
